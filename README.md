@@ -29,5 +29,5 @@ The model was trained using historical housing data and can be used to predict t
     .\myenv\Scripts\activate
   4. pip install fastapi uvicorn
   5. uvicorn main:app --reload
-  6. 
+
 
