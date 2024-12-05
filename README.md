@@ -21,7 +21,7 @@ The model was trained using historical housing data and can be used to predict t
 - **matplotlib** / **seaborn**: Libraries for data visualization.
 - **Jupyter Notebook** (optional): For interactive development and exploration.
 
- ** Bash command to rum app.py in Command Prompt
+ ## Bash command to rum app.py in Command Prompt
   1. cd C:\Users\YourUsername\Documents\project
   2. dir
   3. Activate the Virtual Environment
